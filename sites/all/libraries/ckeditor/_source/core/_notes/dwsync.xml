@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ckeditor.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="ckeditor_base.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="ckeditor_basic.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="command.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="commanddefinition.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="config.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="dataprocessor.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="dom.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="dtd.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="editor.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="editor_basic.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="env.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="event.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="eventInfo.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="focusmanager.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="htmlparser.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="lang.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="loader.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="plugindefinition.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="plugins.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="resourcemanager.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="scriptloader.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="skins.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="themes.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="tools.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="ui.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="_bootstrap.js" server="C:/wamp/www/oxysilver/" local="129617702880000000" remote="129617702880000000" />
+<file name="ckeditor.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="ckeditor_base.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="ckeditor_basic.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="command.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="commanddefinition.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="config.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="dataprocessor.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="dom.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="dtd.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="editor.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="editor_basic.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="env.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="event.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="eventInfo.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="focusmanager.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="htmlparser.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="lang.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="loader.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="plugindefinition.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="plugins.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="resourcemanager.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="scriptloader.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="skins.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="themes.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="tools.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="ui.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+<file name="_bootstrap.js" server="C:/wamp/www/monster tuning/" local="129617702880000000" remote="129617702880000000" />
+</dwsync>

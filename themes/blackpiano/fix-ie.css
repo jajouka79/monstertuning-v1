@@ -1,0 +1,78 @@
+/* $Id: fix-ie.css,v 1.2 2011/01/23 10:50:15 webmatter Exp $ */
+#return_top a {
+display: none;
+}
+#page-wrapper {
+background: #333 url("img/back1.gif");
+}
+#container {
+	background: #333 url("img/side.gif");
+}
+#footer {
+	background: #333 url("img/bottom.gif") center top no-repeat;
+
+}
+ul#main-menu {
+    background: #111;
+    float: right;
+    font-size: 11px;
+    height: 57px;
+    margin: 0 0 4px 0;
+}
+#pngfix-right {
+    background: #333 url("img/menu_right.gif") center top no-repeat;
+    display: block;
+    float: right;
+    
+}
+#pngfix-left {
+    background: #333 url("img/menu_left.gif") center top no-repeat;
+    display: block;
+  
+    
+}
+#header {
+	background: url("img/top.gif") no-repeat scroll center bottom transparent;
+	height: 160px;
+}
+#header #search-block-form #edit-submit, #header #search-block-form input.form-submit {
+	  background: url("img/search-button.gif") no-repeat scroll center center transparent;
+    border: medium none;
+    height: 29px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 29px;
+    text-indent: -900000px;
+    margin: 0;
+    font-size: 0;
+    color: transparent;
+    text-align: right;
+}
+a.feed-icon {
+    background: url("img/rss.gif") no-repeat scroll left top transparent;
+    float: right;
+    height: 43px;
+    margin: 50px 10px 0 0;
+    padding: 0;
+    width: 44px;
+}
+#header #search-block-form {
+    background: url("img/search-area.gif") no-repeat scroll 0 0 transparent;
+    float: right;
+    height: 29px;
+    margin: 59px 10px 0 0;
+    position: relative;
+    width: 183px;
+}
+#header div.region-header {
+    float: right;
+width: 200px;
+}
+
+#sidebar-second {
+	 clear: both;
+    float: right;
+    margin: 70px 5px 0 -25px;
+    width: 250px;
+}

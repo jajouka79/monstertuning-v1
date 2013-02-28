@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="html.tpl.php" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="image.gd.inc" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="maintenance-page.tpl.php" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="page.tpl.php" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="region.tpl.php" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.admin-rtl.css" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.admin.css" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.admin.inc" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.api.php" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.archiver.inc" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.base-rtl.css" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.base.css" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.cron.js" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.info" server="C:/wamp/www/oxysilver/" local="129562838800000000" remote="129562838800000000" />
+<file name="system.install" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.js" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.mail.inc" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.maintenance.css" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.menus-rtl.css" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.menus.css" server="C:/wamp/www/oxysilver/" local="129600404680000000" remote="129600404680000000" />
+<file name="system.messages-rtl.css" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.messages.css" server="C:/wamp/www/oxysilver/" local="129600408470000000" remote="129600408470000000" />
+<file name="system.module" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.queue.inc" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.tar.inc" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.test" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.theme-rtl.css" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.theme.css" server="C:/wamp/www/oxysilver/" local="129599606840000000" remote="129599606840000000" />
+<file name="system.tokens.inc" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.updater.inc" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="theme.api.php" server="C:/wamp/www/oxysilver/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.base.css" server="ftp.oxysilver.eu/www/" local="129729134891250000" remote="129729135000000000" />
+<file name="html.tpl.php" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="image.gd.inc" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="maintenance-page.tpl.php" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="page.tpl.php" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="region.tpl.php" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.admin-rtl.css" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.admin.css" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.admin.inc" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.api.php" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.archiver.inc" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.base-rtl.css" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.base.css" server="C:/wamp/www/monster tuning/" local="129729134890000000" remote="129729134890000000" />
+<file name="system.cron.js" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.info" server="C:/wamp/www/monster tuning/" local="129562838800000000" remote="129562838800000000" />
+<file name="system.install" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.js" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.mail.inc" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.maintenance.css" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.menus-rtl.css" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.menus.css" server="C:/wamp/www/monster tuning/" local="129600404680000000" remote="129600404680000000" />
+<file name="system.messages-rtl.css" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.messages.css" server="C:/wamp/www/monster tuning/" local="129600408470000000" remote="129600408470000000" />
+<file name="system.module" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.queue.inc" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.tar.inc" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.test" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.theme-rtl.css" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.theme.css" server="C:/wamp/www/monster tuning/" local="129599606840000000" remote="129599606840000000" />
+<file name="system.tokens.inc" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="system.updater.inc" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+<file name="theme.api.php" server="C:/wamp/www/monster tuning/" local="129562813440000000" remote="129562813440000000" />
+</dwsync>

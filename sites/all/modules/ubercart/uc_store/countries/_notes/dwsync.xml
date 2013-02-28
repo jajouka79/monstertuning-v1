@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="afghanistan_4_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="aland_islands_248_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="albania_8_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="algeria_12_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="american_samoa_16_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="andorra_20_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="angola_24_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="anguilla_660_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="antarctica_10_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="antigua_barbuda_28_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="argentina_32_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="armenia_51_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="aruba_533_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="australia_36_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="austria_40_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="azerbaijan_31_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="bahamas_44_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="bahrain_48_3.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="bangladesh_50_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="barbados_52_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="belarus_112_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="belgium_56_3.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="belize_84_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="benin_204_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="bermuda_60_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="bhutan_64_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="bolivia_68_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="bonaire_535_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="bosnia_herzegovina_70_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="botswana_72_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="bouvet_island_74_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="brazil_76_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="british_indian_ocean_territory_86_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="brunei_darussalam_96_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="bulgaria_100_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="burkina_faso_854_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="burundi_108_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="cambodia_116_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="cameroon_120_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="canada_124_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="cape_verde_132_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="cayman_islands_136_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="central_african_republic_140_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="chad_148_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="chile_152_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="china_156_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="christmas_island_162_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="cocos_islands_166_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="colombia_170_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="comoros_174_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="congo_178_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="congo_democratic_republic_of_180_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="cook_islands_184_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="costa_rica_188_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="cote_d_ivoire_384_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="croatia_191_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="cuba_192_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="curacao_531_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="cyprus_196_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="czech_203_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="denmark_208_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="djibouti_262_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="dominican_republic_214_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="dominica_212_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="ecuador_218_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="egypt_818_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="el_salvador_222_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="equatorial_guinea_226_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="eritrea_232_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="estonia_233_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="ethiopia_231_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="falkland_islands_238_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="faroe_islands_234_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="fiji_242_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="finland_246_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="france_250_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="french_guiana_254_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="french_polynesia_258_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="french_southern_territories_260_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="gabon_266_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="gambia_270_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="georgia_268_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="germany_276_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="ghana_288_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="gibraltar_292_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="greece_300_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="greenland_304_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="grenada_308_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="guadeloupe_312_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="guam_316_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="guatemala_320_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="guernsey_831_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="guinea_324_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="guinea_bissau_624_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="guyana_328_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="haiti_332_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="heard_island_334_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="holy_see_336_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="honduras_340_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="hong_kong_344_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="hungary_348_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="iceland_352_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="india_356_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="indonesia_360_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="iran_364_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="iraq_368_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="ireland_372_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="isle_of_man_833_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="israel_376_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="italy_380_3.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="jamaica_388_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="japan_392_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="jersey_832_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="jordan_400_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="kazakhstan_398_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="kenya_404_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="kiribati_296_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="korea_democratic_peoples_republic_of_408_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="korea_republic_of_410_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="kuwait_414_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="kyrgyzstan_417_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="laos_418_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="latvia_428_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="lebanon_422_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="lesotho_426_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="liberia_430_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="libya_434_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="liechtenstein_438_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="lithuania_440_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="luxembourg_442_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="macao_446_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="macedonia_807_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="madagascar_450_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="malawi_454_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="malaysia_458_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="maldives_462_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="mali_466_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="malta_470_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="marshall_islands_584_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="martinique_474_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="mauritania_478_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="mauritius_480_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="mayotte_175_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="mexico_484_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="micronesia_583_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="moldova_498_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="monaco_492_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="mongolia_496_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="montenegro_499_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="montserrat_500_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="morocco_504_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="mozambique_508_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="myanmar_104_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="namibia_516_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="nauru_520_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="nepal_524_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="netherlands_528_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="new_caledonia_540_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="new_zealand_554_3.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="nicaragua_558_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="nigeria_566_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="niger_562_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="niue_570_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="norfolk_island_574_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="northern_mariana_islands_580_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="norway_578_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="oman_512_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="pakistan_586_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="palau_585_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="palestine_275_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="panama_591_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="papua_new_guinea_598_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="paraguay_600_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="peru_604_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="philippines_608_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="pitcairn_612_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="poland_616_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="portugal_620_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="puerto_rico_630_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="qatar_634_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="reunion_638_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="romania_642_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="russia_643_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="rwanda_646_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_barthelemy_652_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_helena_654_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_kitts_nevis_659_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_lucia_662_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_martin_663_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_pierre_miquelon_666_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_vincent_grenadines_670_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="samoa_882_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="san_marino_674_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="sao_tome_principe_678_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="saudi_arabia_682_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="senegal_686_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="serbia_688_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="seychelles_690_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="sierra_leone_694_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="singapore_702_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="sint_maarten_534_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="slovakia_703_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="slovenia_705_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="solomon_islands_90_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="somalia_706_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="south_africa_710_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="south_georgia_south_sandwich_islands_239_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="spain_724_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="sri_lanka_144_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="sudan_736_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="suriname_740_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="svalbard_jan_mayen_744_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="swaziland_748_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="sweden_752_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="switzerland_756_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="syria_760_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="taiwan_158_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="tajikistan_762_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="tanzania_834_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="thailand_764_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="timor_leste_626_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="togo_768_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="tokelau_772_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="tonga_776_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="trinidad_tobago_780_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="tunisia_788_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="turkey_792_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="turkmenistan_795_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="turks_caicos_islands_796_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="tuvalu_798_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uganda_800_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="ukraine_804_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="united_arab_emirates_784_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="united_kingdom_826_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="united_states_840_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="united_states_minor_outlying_islands_581_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uruguay_858_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uzbekistan_860_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="vanuatu_548_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="venezuela_862_2.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="vietnam_704_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="virgin_islands_british_92_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="virgin_islands_us_850_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="wallis_futuna_876_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="western_sahara_732_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="yemen_887_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="zambia_894_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="zimbabwe_716_1.cif" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="afghanistan_4_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="aland_islands_248_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="albania_8_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="algeria_12_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="american_samoa_16_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="andorra_20_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="angola_24_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="anguilla_660_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="antarctica_10_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="antigua_barbuda_28_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="argentina_32_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="armenia_51_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="aruba_533_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="australia_36_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="austria_40_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="azerbaijan_31_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="bahamas_44_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="bahrain_48_3.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="bangladesh_50_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="barbados_52_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="belarus_112_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="belgium_56_3.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="belize_84_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="benin_204_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="bermuda_60_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="bhutan_64_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="bolivia_68_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="bonaire_535_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="bosnia_herzegovina_70_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="botswana_72_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="bouvet_island_74_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="brazil_76_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="british_indian_ocean_territory_86_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="brunei_darussalam_96_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="bulgaria_100_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="burkina_faso_854_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="burundi_108_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="cambodia_116_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="cameroon_120_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="canada_124_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="cape_verde_132_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="cayman_islands_136_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="central_african_republic_140_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="chad_148_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="chile_152_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="china_156_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="christmas_island_162_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="cocos_islands_166_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="colombia_170_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="comoros_174_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="congo_178_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="congo_democratic_republic_of_180_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="cook_islands_184_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="costa_rica_188_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="cote_d_ivoire_384_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="croatia_191_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="cuba_192_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="curacao_531_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="cyprus_196_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="czech_203_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="denmark_208_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="djibouti_262_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="dominica_212_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="dominican_republic_214_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="ecuador_218_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="egypt_818_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="el_salvador_222_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="equatorial_guinea_226_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="eritrea_232_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="estonia_233_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="ethiopia_231_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="falkland_islands_238_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="faroe_islands_234_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="fiji_242_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="finland_246_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="france_250_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="french_guiana_254_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="french_polynesia_258_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="french_southern_territories_260_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="gabon_266_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="gambia_270_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="georgia_268_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="germany_276_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="ghana_288_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="gibraltar_292_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="greece_300_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="greenland_304_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="grenada_308_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="guadeloupe_312_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="guam_316_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="guatemala_320_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="guernsey_831_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="guinea_324_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="guinea_bissau_624_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="guyana_328_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="haiti_332_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="heard_island_334_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="holy_see_336_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="honduras_340_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="hong_kong_344_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="hungary_348_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="iceland_352_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="india_356_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="indonesia_360_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="iran_364_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="iraq_368_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="ireland_372_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="isle_of_man_833_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="israel_376_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="italy_380_3.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="jamaica_388_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="japan_392_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="jersey_832_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="jordan_400_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="kazakhstan_398_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="kenya_404_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="kiribati_296_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="korea_democratic_peoples_republic_of_408_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="korea_republic_of_410_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="kuwait_414_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="kyrgyzstan_417_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="laos_418_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="latvia_428_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="lebanon_422_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="lesotho_426_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="liberia_430_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="libya_434_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="liechtenstein_438_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="lithuania_440_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="luxembourg_442_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="macao_446_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="macedonia_807_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="madagascar_450_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="malawi_454_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="malaysia_458_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="maldives_462_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="mali_466_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="malta_470_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="marshall_islands_584_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="martinique_474_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="mauritania_478_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="mauritius_480_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="mayotte_175_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="mexico_484_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="micronesia_583_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="moldova_498_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="monaco_492_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="mongolia_496_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="montenegro_499_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="montserrat_500_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="morocco_504_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="mozambique_508_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="myanmar_104_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="namibia_516_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="nauru_520_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="nepal_524_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="netherlands_528_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="new_caledonia_540_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="new_zealand_554_3.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="nicaragua_558_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="niger_562_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="nigeria_566_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="niue_570_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="norfolk_island_574_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="northern_mariana_islands_580_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="norway_578_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="oman_512_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="pakistan_586_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="palau_585_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="palestine_275_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="panama_591_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="papua_new_guinea_598_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="paraguay_600_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="peru_604_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="philippines_608_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="pitcairn_612_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="poland_616_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="portugal_620_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="puerto_rico_630_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="qatar_634_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="reunion_638_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="romania_642_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="russia_643_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="rwanda_646_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="saint_barthelemy_652_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="saint_helena_654_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="saint_kitts_nevis_659_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="saint_lucia_662_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="saint_martin_663_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="saint_pierre_miquelon_666_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="saint_vincent_grenadines_670_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="samoa_882_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="san_marino_674_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="sao_tome_principe_678_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="saudi_arabia_682_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="senegal_686_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="serbia_688_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="seychelles_690_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="sierra_leone_694_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="singapore_702_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="sint_maarten_534_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="slovakia_703_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="slovenia_705_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="solomon_islands_90_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="somalia_706_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="south_africa_710_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="south_georgia_south_sandwich_islands_239_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="spain_724_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="sri_lanka_144_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="sudan_736_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="suriname_740_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="svalbard_jan_mayen_744_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="swaziland_748_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="sweden_752_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="switzerland_756_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="syria_760_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="taiwan_158_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="tajikistan_762_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="tanzania_834_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="thailand_764_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="timor_leste_626_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="togo_768_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="tokelau_772_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="tonga_776_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="trinidad_tobago_780_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="tunisia_788_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="turkey_792_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="turkmenistan_795_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="turks_caicos_islands_796_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="tuvalu_798_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="uganda_800_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="ukraine_804_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="united_arab_emirates_784_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="united_kingdom_826_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="united_states_840_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="united_states_minor_outlying_islands_581_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="uruguay_858_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="uzbekistan_860_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="vanuatu_548_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="venezuela_862_2.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="vietnam_704_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="virgin_islands_british_92_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="virgin_islands_us_850_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="wallis_futuna_876_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="western_sahara_732_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="yemen_887_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="zambia_894_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="zimbabwe_716_1.cif" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681861000000000" />
+<file name="afghanistan_4_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="aland_islands_248_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="albania_8_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="algeria_12_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="american_samoa_16_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="andorra_20_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="angola_24_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="anguilla_660_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="antarctica_10_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="antigua_barbuda_28_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="argentina_32_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="armenia_51_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="aruba_533_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="australia_36_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="austria_40_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="azerbaijan_31_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="bahamas_44_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="bahrain_48_3.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="bangladesh_50_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="barbados_52_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="belarus_112_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="belgium_56_3.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="belize_84_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="benin_204_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="bermuda_60_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="bhutan_64_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="bolivia_68_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="bonaire_535_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="bosnia_herzegovina_70_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="botswana_72_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="bouvet_island_74_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="brazil_76_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="british_indian_ocean_territory_86_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="brunei_darussalam_96_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="bulgaria_100_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="burkina_faso_854_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="burundi_108_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="cambodia_116_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="cameroon_120_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="canada_124_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="cape_verde_132_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="cayman_islands_136_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="central_african_republic_140_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="chad_148_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="chile_152_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="china_156_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="christmas_island_162_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="cocos_islands_166_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="colombia_170_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="comoros_174_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="congo_178_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="congo_democratic_republic_of_180_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="cook_islands_184_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="costa_rica_188_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="cote_d_ivoire_384_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="croatia_191_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="cuba_192_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="curacao_531_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="cyprus_196_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="czech_203_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="denmark_208_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="djibouti_262_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="dominican_republic_214_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="dominica_212_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="ecuador_218_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="egypt_818_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="el_salvador_222_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="equatorial_guinea_226_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="eritrea_232_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="estonia_233_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="ethiopia_231_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="falkland_islands_238_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="faroe_islands_234_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="fiji_242_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="finland_246_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="france_250_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="french_guiana_254_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="french_polynesia_258_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="french_southern_territories_260_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="gabon_266_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="gambia_270_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="georgia_268_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="germany_276_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="ghana_288_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="gibraltar_292_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="greece_300_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="greenland_304_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="grenada_308_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="guadeloupe_312_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="guam_316_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="guatemala_320_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="guernsey_831_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="guinea_324_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="guinea_bissau_624_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="guyana_328_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="haiti_332_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="heard_island_334_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="holy_see_336_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="honduras_340_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="hong_kong_344_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="hungary_348_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="iceland_352_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="india_356_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="indonesia_360_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="iran_364_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="iraq_368_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="ireland_372_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="isle_of_man_833_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="israel_376_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="italy_380_3.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="jamaica_388_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="japan_392_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="jersey_832_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="jordan_400_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="kazakhstan_398_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="kenya_404_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="kiribati_296_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="korea_democratic_peoples_republic_of_408_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="korea_republic_of_410_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="kuwait_414_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="kyrgyzstan_417_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="laos_418_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="latvia_428_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="lebanon_422_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="lesotho_426_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="liberia_430_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="libya_434_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="liechtenstein_438_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="lithuania_440_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="luxembourg_442_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="macao_446_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="macedonia_807_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="madagascar_450_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="malawi_454_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="malaysia_458_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="maldives_462_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="mali_466_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="malta_470_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="marshall_islands_584_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="martinique_474_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="mauritania_478_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="mauritius_480_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="mayotte_175_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="mexico_484_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="micronesia_583_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="moldova_498_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="monaco_492_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="mongolia_496_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="montenegro_499_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="montserrat_500_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="morocco_504_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="mozambique_508_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="myanmar_104_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="namibia_516_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="nauru_520_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="nepal_524_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="netherlands_528_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="new_caledonia_540_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="new_zealand_554_3.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="nicaragua_558_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="nigeria_566_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="niger_562_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="niue_570_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="norfolk_island_574_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="northern_mariana_islands_580_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="norway_578_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="oman_512_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="pakistan_586_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="palau_585_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="palestine_275_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="panama_591_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="papua_new_guinea_598_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="paraguay_600_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="peru_604_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="philippines_608_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="pitcairn_612_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="poland_616_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="portugal_620_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="puerto_rico_630_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="qatar_634_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="reunion_638_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="romania_642_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="russia_643_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="rwanda_646_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_barthelemy_652_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_helena_654_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_kitts_nevis_659_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_lucia_662_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_martin_663_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_pierre_miquelon_666_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="saint_vincent_grenadines_670_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="samoa_882_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="san_marino_674_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="sao_tome_principe_678_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="saudi_arabia_682_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="senegal_686_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="serbia_688_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="seychelles_690_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="sierra_leone_694_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="singapore_702_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="sint_maarten_534_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="slovakia_703_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="slovenia_705_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="solomon_islands_90_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="somalia_706_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="south_africa_710_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="south_georgia_south_sandwich_islands_239_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="spain_724_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="sri_lanka_144_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="sudan_736_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="suriname_740_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="svalbard_jan_mayen_744_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="swaziland_748_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="sweden_752_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="switzerland_756_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="syria_760_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="taiwan_158_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="tajikistan_762_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="tanzania_834_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="thailand_764_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="timor_leste_626_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="togo_768_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="tokelau_772_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="tonga_776_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="trinidad_tobago_780_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="tunisia_788_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="turkey_792_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="turkmenistan_795_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="turks_caicos_islands_796_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="tuvalu_798_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uganda_800_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="ukraine_804_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="united_arab_emirates_784_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="united_kingdom_826_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="united_states_840_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="united_states_minor_outlying_islands_581_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uruguay_858_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uzbekistan_860_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="vanuatu_548_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="venezuela_862_2.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="vietnam_704_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="virgin_islands_british_92_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="virgin_islands_us_850_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="wallis_futuna_876_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="western_sahara_732_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="yemen_887_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="zambia_894_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="zimbabwe_716_1.cif" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="afghanistan_4_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="aland_islands_248_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="albania_8_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="algeria_12_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="american_samoa_16_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="andorra_20_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="angola_24_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="anguilla_660_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="antarctica_10_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="antigua_barbuda_28_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="argentina_32_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="armenia_51_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="aruba_533_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="australia_36_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="austria_40_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="azerbaijan_31_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="bahamas_44_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="bahrain_48_3.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="bangladesh_50_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="barbados_52_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="belarus_112_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="belgium_56_3.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="belize_84_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="benin_204_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="bermuda_60_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="bhutan_64_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="bolivia_68_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="bonaire_535_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="bosnia_herzegovina_70_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="botswana_72_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="bouvet_island_74_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="brazil_76_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="british_indian_ocean_territory_86_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="brunei_darussalam_96_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="bulgaria_100_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="burkina_faso_854_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="burundi_108_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="cambodia_116_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="cameroon_120_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="canada_124_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="cape_verde_132_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="cayman_islands_136_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="central_african_republic_140_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="chad_148_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="chile_152_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="china_156_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="christmas_island_162_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="cocos_islands_166_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="colombia_170_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="comoros_174_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="congo_178_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="congo_democratic_republic_of_180_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="cook_islands_184_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="costa_rica_188_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="cote_d_ivoire_384_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="croatia_191_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="cuba_192_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="curacao_531_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="cyprus_196_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="czech_203_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="denmark_208_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="djibouti_262_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="dominican_republic_214_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="dominica_212_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="ecuador_218_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="egypt_818_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="el_salvador_222_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="equatorial_guinea_226_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="eritrea_232_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="estonia_233_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="ethiopia_231_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="falkland_islands_238_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="faroe_islands_234_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="fiji_242_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="finland_246_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="france_250_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="french_guiana_254_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="french_polynesia_258_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="french_southern_territories_260_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="gabon_266_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="gambia_270_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="georgia_268_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="germany_276_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="ghana_288_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="gibraltar_292_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="greece_300_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="greenland_304_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="grenada_308_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="guadeloupe_312_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="guam_316_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="guatemala_320_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="guernsey_831_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="guinea_324_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="guinea_bissau_624_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="guyana_328_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="haiti_332_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="heard_island_334_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="holy_see_336_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="honduras_340_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="hong_kong_344_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="hungary_348_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="iceland_352_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="india_356_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="indonesia_360_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="iran_364_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="iraq_368_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="ireland_372_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="isle_of_man_833_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="israel_376_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="italy_380_3.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="jamaica_388_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="japan_392_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="jersey_832_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="jordan_400_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="kazakhstan_398_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="kenya_404_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="kiribati_296_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="korea_democratic_peoples_republic_of_408_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="korea_republic_of_410_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="kuwait_414_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="kyrgyzstan_417_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="laos_418_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="latvia_428_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="lebanon_422_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="lesotho_426_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="liberia_430_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="libya_434_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="liechtenstein_438_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="lithuania_440_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="luxembourg_442_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="macao_446_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="macedonia_807_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="madagascar_450_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="malawi_454_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="malaysia_458_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="maldives_462_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="mali_466_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="malta_470_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="marshall_islands_584_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="martinique_474_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="mauritania_478_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="mauritius_480_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="mayotte_175_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="mexico_484_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="micronesia_583_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="moldova_498_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="monaco_492_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="mongolia_496_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="montenegro_499_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="montserrat_500_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="morocco_504_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="mozambique_508_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="myanmar_104_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="namibia_516_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="nauru_520_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="nepal_524_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="netherlands_528_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="new_caledonia_540_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="new_zealand_554_3.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="nicaragua_558_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="nigeria_566_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="niger_562_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="niue_570_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="norfolk_island_574_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="northern_mariana_islands_580_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="norway_578_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="oman_512_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="pakistan_586_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="palau_585_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="palestine_275_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="panama_591_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="papua_new_guinea_598_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="paraguay_600_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="peru_604_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="philippines_608_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="pitcairn_612_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="poland_616_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="portugal_620_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="puerto_rico_630_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="qatar_634_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="reunion_638_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="romania_642_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="russia_643_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="rwanda_646_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="saint_barthelemy_652_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="saint_helena_654_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="saint_kitts_nevis_659_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="saint_lucia_662_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="saint_martin_663_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="saint_pierre_miquelon_666_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="saint_vincent_grenadines_670_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="samoa_882_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="san_marino_674_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="sao_tome_principe_678_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="saudi_arabia_682_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="senegal_686_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="serbia_688_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="seychelles_690_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="sierra_leone_694_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="singapore_702_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="sint_maarten_534_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="slovakia_703_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="slovenia_705_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="solomon_islands_90_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="somalia_706_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="south_africa_710_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="south_georgia_south_sandwich_islands_239_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="spain_724_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="sri_lanka_144_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="sudan_736_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="suriname_740_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="svalbard_jan_mayen_744_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="swaziland_748_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="sweden_752_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="switzerland_756_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="syria_760_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="taiwan_158_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="tajikistan_762_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="tanzania_834_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="thailand_764_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="timor_leste_626_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="togo_768_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="tokelau_772_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="tonga_776_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="trinidad_tobago_780_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="tunisia_788_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="turkey_792_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="turkmenistan_795_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="turks_caicos_islands_796_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="tuvalu_798_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="uganda_800_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="ukraine_804_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="united_arab_emirates_784_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="united_kingdom_826_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="united_states_840_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="united_states_minor_outlying_islands_581_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="uruguay_858_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="uzbekistan_860_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="vanuatu_548_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="venezuela_862_2.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="vietnam_704_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="virgin_islands_british_92_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="virgin_islands_us_850_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="wallis_futuna_876_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="western_sahara_732_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="yemen_887_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="zambia_894_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+<file name="zimbabwe_716_1.cif" server="213.175.214.220/www/" local="129560470900000000" remote="129742562400000000" />
+</dwsync>

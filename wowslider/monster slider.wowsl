@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>2.0</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <Controls>true</Controls>
+            <GalleryName>my slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>basic_linear</ImageEffect>
+            <ImageHeight>227</ImageHeight>
+            <ImageQuality>100</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/digit/</ImageTemplate>
+            <ImageTemplateName>Digit</ImageTemplateName>
+            <ImageWidth>940</ImageWidth>
+            <Images>true</Images>
+            <OneLoop>false</OneLoop>
+            <PublishFileName>G:/medusa-websites/oxysilver/www/wowslider/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>G:/medusa-websites/oxysilver/www/wowslider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>70</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>digit</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>90</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>372</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images>
+            <Image>
+                <url>C:/Documents and Settings/simon/Desktop/images/slideshowtruck.png</url>
+                <title>Welcome To Monster Tuning!</title>
+            </Image>
+            <Image>
+                <url>C:/Documents and Settings/simon/Desktop/images/slideshowbridge.png</url>
+                <title>Diagnostics &amp;amp; Remapping</title>
+            </Image>
+            <Image>
+                <url>C:/Documents and Settings/simon/Desktop/images/slideshowdust.png</url>
+                <title>Tuning, Servicing, Repairs</title>
+            </Image>
+            <Image>
+                <url>C:/Documents and Settings/simon/Desktop/images/slideshowice.png</url>
+                <title>Ready for Adventure? Get tuned!</title>
+            </Image>
+            <Image>
+                <url>C:/Documents and Settings/simon/Desktop/images/slideshowleather.png</url>
+                <title>Performance, Efficiency, Comfort</title>
+            </Image>
+            <Image>
+                <url>C:/Documents and Settings/simon/Desktop/images/slideshowsand.png</url>
+                <title>Worlds first 8 Wheeler Land Rover</title>
+                <usertarget>_self</usertarget>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

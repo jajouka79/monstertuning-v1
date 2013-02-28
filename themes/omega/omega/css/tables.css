@@ -1,0 +1,50 @@
+table {
+ /* border: 1px solid red;*/
+  width: 100%;
+}
+thead th, th {
+  /*background: red;*/
+  /*border-bottom: 1px solid red;*/
+  color: #ffffff;
+  font-weight:bold;
+}
+td, th {
+  padding: 4px 8px;
+}
+th a, th a:link, th a:visited {
+	text-decoration: none;
+}
+th a {
+	display: block;
+}
+th a img {
+  margin: 0 0 0 5px;
+}
+th.active {
+/*	background: red;
+	border-left: 1px solid red;
+    border-right: 1px solid red;*/
+}
+/* Odd & Even Styles */
+tr.even td {
+  /*background: red;*/
+}
+tr.odd td {
+  /*background: red;*/
+}
+td.active {
+/*	border-left: 1px solid red;
+	border-right: 1px solid red;*/
+}
+tr.even td.active {
+  /*background: red;*/
+}
+tr.odd td.active {
+  /*background: red;*/
+}
+
+tr:hover td,
+tr.even:hover td.active,
+tr.odd:hover td.active {
+	/*background: red;*/
+}

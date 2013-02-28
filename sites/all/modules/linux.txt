@@ -1,0 +1,4 @@
+Just add FTP user to the same group as your Apache user. For example, if your Apache user in the apache group (default in CentOS) run:
+sudo useradd -G apache ftp_username
+
+

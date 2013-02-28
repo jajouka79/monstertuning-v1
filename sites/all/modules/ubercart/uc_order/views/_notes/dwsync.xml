@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="uc_order.views.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order.views_default.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_money_amount.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_actions.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_cc_data.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_cost.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_fullname.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_id.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_status.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_filter_country.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_filter_order_status.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_filter_payment_method.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_filter_zone.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_plugin_row_invoice_view.inc" server="C:/wamp/www/oxysilver/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order.views.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order.views_default.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_handler_field_money_amount.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_handler_field_order_actions.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_handler_field_order_cc_data.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_handler_field_order_cost.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_handler_field_order_fullname.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_handler_field_order_id.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_handler_field_order_status.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_handler_filter_country.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_handler_filter_order_status.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_handler_filter_payment_method.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_handler_filter_zone.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order_plugin_row_invoice_view.inc" server="ftp.oxysilver.eu/www/" local="129560470900000000" remote="129681860400000000" />
+<file name="uc_order.views.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order.views_default.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_money_amount.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_actions.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_cc_data.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_cost.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_fullname.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_id.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_field_order_status.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_filter_country.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_filter_order_status.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_filter_payment_method.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_handler_filter_zone.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order_plugin_row_invoice_view.inc" server="C:/wamp/www/monster tuning/" local="129560470900000000" remote="129560470900000000" />
+<file name="uc_order.views.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order.views_default.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_handler_field_money_amount.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_handler_field_order_actions.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_handler_field_order_cc_data.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_handler_field_order_cost.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_handler_field_order_fullname.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_handler_field_order_id.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_handler_field_order_status.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_handler_filter_country.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_handler_filter_order_status.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_handler_filter_payment_method.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_handler_filter_zone.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+<file name="uc_order_plugin_row_invoice_view.inc" server="213.175.214.220/www/" local="129560470900000000" remote="129742561800000000" />
+</dwsync>

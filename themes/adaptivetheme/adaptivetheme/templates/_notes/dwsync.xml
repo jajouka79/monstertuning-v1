@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="aggregator-feed-source.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="aggregator-item.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="aggregator-summary-items.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="block--menu-bar.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="block--menu.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="block--search.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="block.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="book-navigation.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="comment.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="field--taxonomy-term-reference.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="field.tpl.php.txt" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="html.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="maintenance-page.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="node.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="page--full-width-header-footer-example.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="page.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="region--content-aside.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="region--menu-bar.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="search-result.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="user-profile-category.tpl.php" server="C:/wamp/www/oxysilver/" local="129565050260000000" remote="129565050260000000" />
+<file name="aggregator-feed-source.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="aggregator-item.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="aggregator-summary-items.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="block--menu-bar.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="block--menu.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="block--search.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="block.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="book-navigation.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="comment.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="field--taxonomy-term-reference.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="field.tpl.php.txt" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="html.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="maintenance-page.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="node.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="page--full-width-header-footer-example.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="page.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="region--content-aside.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="region--menu-bar.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="search-result.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="user-profile-category.tpl.php" server="ftp.oxysilver.eu/www/" local="129565050260000000" remote="129681865800000000" />
+<file name="aggregator-feed-source.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="aggregator-item.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="aggregator-summary-items.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="block--menu-bar.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="block--menu.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="block--search.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="block.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="book-navigation.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="comment.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="field--taxonomy-term-reference.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="field.tpl.php.txt" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="html.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="maintenance-page.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="node.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="page--full-width-header-footer-example.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="page.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="region--content-aside.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="region--menu-bar.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="search-result.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+<file name="user-profile-category.tpl.php" server="C:/wamp/www/monster tuning/" local="129565050260000000" remote="129565050260000000" />
+</dwsync>

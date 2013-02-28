@@ -1,0 +1,25 @@
+; $Id: blackpiano.info,v 1.2 2011/01/23 10:50:14 webmatter Exp $ 
+name = blackpiano
+description = "Fixed width(960px), 2 columns, adaption of wordpress theme piano-black by mono-lab (http://wordpress.org/extend/themes/piano-black), Drupal 7 port by  <a href='http://webmatter.de'>WebMatter.de</a>"
+version = VERSION
+core = 7.x
+stylesheets[all][] = style.css
+conditional-stylesheets[if IE 6][all][] = fix-ie.css
+
+regions[below_content] = Below content
+regions[sidebar_second] = Rechte Sidebar
+regions[content] = Content
+regions[footer] = Footer
+regions[header] = Header
+regions[help] = Help
+regions[highlighted] = Highlighted
+
+
+
+
+; Information added by drupal.org packaging script on January 1, 1970 - 00:00
+version = "7.x-1.0-beta3"
+core = "7.x"
+project = "blackpiano"
+datestamp = "1295781978"
+

@@ -1,0 +1,286 @@
+/*
+  This is the default layout template for nice menus, and will provide
+  a starting point for the look of your menus. To customize, it's
+  recommended to create a custom CSS file using this file as a template,
+  then configure the module to use your custom CSS file
+  (this is done in the global settings tab of the theme administration.)
+
+  See README.txt and the handbook page (http://drupal.org/node/185543)
+  for more information on using the CSS.
+*/
+
+/******************************
+ Global CSS for ALL menu types
+******************************/
+
+/**/
+
+ul.nice-menu,
+ul.nice-menu ul {
+
+  /*border-top: 1px solid #2E2E2E;*/
+}
+
+ul.nice-menu li {
+
+}
+
+ul.nice-menu a {
+  /*padding: 0.3em 5px 0.3em 5px;*/
+}
+
+ul.nice-menu ul {
+ /* top: 1.8em;*/
+ /* left: -1px;*/ /* LTR */
+/*  border: 0;
+  border-top: 1px solid #2E2E2E;
+  margin-right: 0; */
+}
+
+ul.nice-menu ul li {
+ /* width: 218px;*/
+}
+
+/******************************
+ VERTICAL (left/right) menus
+******************************/
+
+/* This is the default width of all vertical menus. */
+ul.nice-menu-right, ul.nice-menu-left,
+ul.nice-menu-right li, ul.nice-menu-left li {
+/*	width: 218px;
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;*/
+}
+
+ul.nice-menu-right {
+	/*padding-top:0px;*/
+}
+
+ul.nice-menu-right .first {
+	/*border-top: 1px solid #171717;*/
+	}
+
+/* VERTICAL menus where submenus pop RIGHT (default). */
+ul.nice-menu-right ul {
+/*  width: 12.5em;
+  left: 12.5em;
+  top: -1px;*/
+}
+
+ul.nice-menu-right ul ul {
+/*  width: 12.5em;
+  left: 12.5em;
+  top: -1px;*/
+}
+
+
+/* //////////////////////////// */
+
+ul.nice-menu-right li.odd,ul.nice-menu-right li.even{
+/*	background: right center no-repeat, -moz-linear-gradient(top, #2e2e2e 0%, #171717 100%); 
+	background: right center no-repeat, -webkit-gradient(linear, left top, left bottom, color-stop(0%,#2e2e2e), color-stop(100%,#171717)); 
+	background: right center no-repeat, -webkit-linear-gradient(top, #2e2e2e 0%,#171717 100%); 
+	background: right center no-repeat, -o-linear-gradient(top, #2e2e2e 0%,#171717 100%); 
+	background: right center no-repeat, -ms-linear-gradient(top, #2e2e2e 0%,#171717 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e2e2e', endColorstr='#171717',GradientType=0 );
+	background: linear-gradient(top, #2e2e2e 0%,#171717 100%);*/
+
+}
+
+ul.nice-menu-right li.menuparent{
+/*	background: url(arrow-right.png) right center no-repeat, -moz-linear-gradient(top, #2e2e2e 0%, #171717 100%); 
+	background: url(arrow-right.png) right center no-repeat, -webkit-gradient(linear, left top, left bottom, color-stop(0%,#2e2e2e), color-stop(100%,#171717)); 
+	background: url(arrow-right.png) right center no-repeat, -webkit-linear-gradient(top, #2e2e2e 0%,#171717 100%); 
+	background: url(arrow-right.png) right center no-repeat, -o-linear-gradient(top, #2e2e2e 0%,#171717 100%); 
+	background: url(arrow-right.png) right center no-repeat, -ms-linear-gradient(top, #2e2e2e 0%,#171717 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e2e2e', endColorstr='#171717',GradientType=0 );
+	background: linear-gradient(top, #2e2e2e 0%,#171717 100%);*/
+
+}
+
+ul.nice-menu-right li ul li ,ul.nice-menu-right li ul li {
+	/*background-color:black;*/		
+	}
+	
+ul.nice-menu-right li.menuparent:hover{
+	
+/*	background: url(arrow-right.png) right center no-repeat, -moz-linear-gradient(top, #3A3A3A 0%, #171717 100%); 
+	background: url(arrow-right.png) right center no-repeat, -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3A3A3A), color-stop(100%,#171717)); 
+	background: url(arrow-right.png) right center no-repeat, -webkit-linear-gradient(top, #3A3A3A 0%,#171717 100%); 
+	background: url(arrow-right.png) right center no-repeat, -o-linear-gradient(top, #3A3A3A 0%,#171717 100%); 
+	background: url(arrow-right.png) right center no-repeat, -ms-linear-gradient(top, #3A3A3A 0%,#171717 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3A3A3A', endColorstr='#171717',GradientType=0 ); 
+	background: linear-gradient(top, #3A3A3A 0%,#171717 100%); */
+	
+}
+
+
+ul.nice-menu-right li.odd:hover,ul.nice-menu-right li.even:hover{
+	
+/*	background: right center no-repeat, -moz-linear-gradient(top, #3A3A3A 0%, #171717 100%); 
+	background: right center no-repeat, -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3A3A3A), color-stop(100%,#171717)); 
+	background: right center no-repeat, -webkit-linear-gradient(top, #3A3A3A 0%,#171717 100%); 
+	background: right center no-repeat, -o-linear-gradient(top, #3A3A3A 0%,#171717 100%); 
+	background: right center no-repeat, -ms-linear-gradient(top, #3A3A3A 0%,#171717 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3A3A3A', endColorstr='#171717',GradientType=0 );
+	background: linear-gradient(top, #3A3A3A 0%,#171717 100%); */
+	
+}
+
+#nice-menu-1 li ul li{
+/* background:#171717;*/
+/* width:400px;*/
+}
+
+ 
+ul.nice-menu-right li a:hover {
+ /* color: #DF660D;   */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* VERTICAL menus where submenus pop LEFT. */
+ul.nice-menu-left li ul {
+/*  width: 12.5em;
+  left: -12.65em;
+  top: -1px;*/
+}
+
+ul.nice-menu-left li ul li ul {
+/*  width: 12.5em;
+  left: -12.65em;  top: -1px;*/
+}
+
+ul.nice-menu-left li.menuparent,
+ul.nice-menu-left li li.menuparent {
+  /*background: #2E2E2E url(arrow-left.png) left center no-repeat;*/
+}
+
+ul.nice-menu-left li.menuparent:hover,
+ul.nice-menu-left li li.menuparent:hover {
+  /*background: #2E2E2E url(arrow-left.png) left center no-repeat;*/
+}
+
+ul.nice-menu-left a, ul.nice-menu-left ul a {
+ /* padding-left: 14px;*/
+}
+
+/******************************
+ HORIZONTAL (down) menus
+******************************/
+
+ul.nice-menu-down {
+  /*float: left; *//* LTR */
+  /*border: 0;*/
+}
+
+ul.nice-menu-down li {
+  /*border-top: 1px solid #2E2E2E;*/
+}
+
+ul.nice-menu-down li li {
+  /*border-top: 0;*/
+}
+
+ul.nice-menu-down ul {
+  /*left: 0;*/ /* LTR */
+}
+
+ul.nice-menu-down ul li {
+  /*clear: both;*/
+}
+
+ul.nice-menu-down li ul li ul {
+  /*left: 12.5em;*/ /* LTR */
+  /*top: -1px;*/
+}
+
+ul.nice-menu-down .menuparent a {
+  /*padding-right: 15px;*/ /* LTR */
+}
+
+ul.nice-menu-down li.menuparent {
+  /*background: #2E2E2E url(arrow-down.png) right center no-repeat;*/ /* LTR */
+}
+
+ul.nice-menu-down li.menuparent:hover {
+  /*background: #ccc url(arrow-down.png) right center no-repeat; *//* LTR */
+}
+
+ul.nice-menu-down li li.menuparent {
+  /*background: #2E2E2E url(arrow-right.png) right center no-repeat;*/ /* LTR */
+}
+
+ul.nice-menu-down li li.menuparent:hover {
+  /*background: #ccc url(arrow-right.png) right center no-repeat;*/ /* LTR */
+}
+
+/******************************
+ Garland-specific CSS
+******************************/
+
+/**
+ * Global CSS for ALL menu types
+ */
+ul.nice-menu li {
+  /*margin: 0;
+  padding-left: 0;*/ /* LTR */
+  /*background-image: none;*/
+}
+
+#header-region ul.nice-menu li {
+ /* margin: 0;*/
+  /* Padding rules are needed to deal with Garland's header line-height. */
+/*  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+  background: #2E2E2E;*/
+}
+
+#header-region ul.nice-menu ul {
+  /*top: 1.8em;
+  left: -1px;*/ /* LTR */
+  /*border: 0;
+  border-top: 1px solid #2E2E2E;
+  margin-right: 0;*/ /* LTR */
+}
+
+#header-region ul.nice-menu ul {
+  /*top: 1.7em;*/
+}
+
+/**
+ * HORIZONTAL (down) menus
+ */
+#header-region ul.nice-menu-down li ul li ul {
+  /*left: 12.5em;*/ /* LTR */
+  /*top: -1px;*/
+}
+
+#header-region ul.nice-menu-down li.menuparent {
+  /*background: #eee url(arrow-down.png) right center no-repeat;*/ /* LTR */
+}
+
+#header-region ul.nice-menu-down li.menuparent:hover {
+  /*background: #ccc url(arrow-down.png) right center no-repeat;*/ /* LTR */
+}
+
+#header-region ul.nice-menu-down li li.menuparent {
+  /*background: #eee url(arrow-right.png) right center no-repeat; *//* LTR */
+}
+
+#header-region ul.nice-menu-down li li.menuparent:hover {
+  /*background: #ccc url(arrow-right.png) right center no-repeat; *//* LTR */
+}

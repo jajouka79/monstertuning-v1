@@ -1,0 +1,8 @@
+/* $Id: CHANGELOG.txt,v 1.1.2.1 2010/12/16 14:03:49 siliconmeadow Exp $ */
+Empty paragraph killer x.x-x.x, xxxx-xx-xx
+------------------------------
+
+
+Empty paragraph killer 7.x-1.x-dev, 2010-12-16
+------------------------------
+Initial port to Drupal 7
